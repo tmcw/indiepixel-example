@@ -85,16 +85,16 @@ wheels = [
 
 [[package]]
 name = "indiepixel"
-version = "0.8.3"
+version = "0.8.4"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "click" },
     { name = "flask" },
     { name = "pillow" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/f1/10/6adbafa2665d2b3fb542d406e2f2dee605963c046248fc493c3b6418b02b/indiepixel-0.8.3.tar.gz", hash = "sha256:ec525b851401bb82871d0ba9b58eeafcaafbbeee0e93d3b074e2b8b23b33c92b", size = 327020 }
+sdist = { url = "https://files.pythonhosted.org/packages/6a/fe/cd5e750aa72d3f46b71f90931c4ad04f9acf577bb5dc2cf15918e7b46277/indiepixel-0.8.4.tar.gz", hash = "sha256:927db8d6299d12d990cc8f02c87802904597abc7aedf45ca62ac7e6eb029c090", size = 327042 }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/db/8f/b8d61d86a89c9d2da02d5dabd58afa92a189a647c899f06da18e250b5575/indiepixel-0.8.3-py3-none-any.whl", hash = "sha256:b15ecd831dbe1efd271d1ee1c1132d3700ad1a0de09ce70b33f275d7aa88e90a", size = 314966 },
+    { url = "https://files.pythonhosted.org/packages/b6/07/5275cb3fd510040e3f0645acf6ea29f5d2b05439a7a18d79472fdf6b9c3c/indiepixel-0.8.4-py3-none-any.whl", hash = "sha256:fb98582eae876a657f1f58a5c4755c269be7316742edb0645a154114be7eb2b0", size = 314985 },
 ]
 
 [[package]]
@@ -115,7 +115,7 @@ dev = [
 
 [package.metadata]
 requires-dist = [
-    { name = "indiepixel", specifier = ">=0.8.3" },
+    { name = "indiepixel", specifier = ">=0.8.4" },
     { name = "pytz", specifier = ">=2025.1" },
 ]
 
