@@ -66,10 +66,6 @@ ignore = [
     "ARG", # unused arguments are fine in tests
     "S",   # allow asserts
 ]
-"examples/*" = [
-    "S", # allow asserts
-    "T", # allow prints
-]
 
 [tool.pyright]
 venvPath = "."
