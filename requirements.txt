@@ -14,6 +14,7 @@ pillow==11.1.0
 platformdirs==4.3.6
 pre-commit==4.1.0
 pyright==1.1.396
+pytz==2025.1
 pyyaml==6.0.2
 ruff==0.9.9
 typing-extensions==4.12.2
